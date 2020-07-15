@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/infobloxopen/atlas-app-toolkit/rpc/errdetails"
-	"github.com/jinzhu/gorm"
+	"github.com/dnk90/gorm"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	jgorm "github.com/jinzhu/gorm"
+	jgorm "github.com/dnk90/gorm"
 )
 
 // MigrationVersionValidator has a function for checking the database version

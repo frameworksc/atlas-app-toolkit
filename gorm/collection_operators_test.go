@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/DATA-DOG/go-sqlmock"
-	"github.com/jinzhu/gorm"
+	"github.com/dnk90/gorm"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 

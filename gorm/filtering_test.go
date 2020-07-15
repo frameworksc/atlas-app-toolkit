@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/jinzhu/gorm/dialects/postgres"
+	"github.com/dnk90/gorm/dialects/postgres"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/infobloxopen/atlas-app-toolkit/query"
